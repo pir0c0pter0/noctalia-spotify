@@ -1,0 +1,29 @@
+{
+  "id": "spotify",
+  "name": "Spotify",
+  "version": "1.0.0",
+  "minNoctaliaVersion": "4.4.0",
+  "author": "pir0c0pter0",
+  "license": "MIT",
+  "repository": "https://github.com/pir0c0pter0/noctalia-spotify",
+  "description": "Terminal-aesthetic Spotify controller via MPRIS",
+  "tags": ["Bar", "Media", "Utility"],
+
+  "entryPoints": {
+    "main": "Main.qml",
+    "barWidget": "BarWidget.qml",
+    "panel": "Panel.qml",
+    "settings": "Settings.qml"
+  },
+
+  "dependencies": {
+    "plugins": []
+  },
+
+  "metadata": {
+    "defaultSettings": {
+      "showArtist": true,
+      "maxTitleLength": 25
+    }
+  }
+}

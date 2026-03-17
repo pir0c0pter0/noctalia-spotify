@@ -1,0 +1,23 @@
+{
+  "widget": {
+    "tooltip": "Spotify",
+    "not-running": "Spotify not running",
+    "open-spotify": "Open Spotify",
+    "nothing-playing": "Nothing playing"
+  },
+  "panel": {
+    "no-device": "Spotify not detected",
+    "open-spotify": "open spotify",
+    "launching": "launching spotify...",
+    "nothing-playing": "no track playing"
+  },
+  "settings": {
+    "show-artist": "Show artist in bar",
+    "show-artist-desc": "Display artist name next to track title in the bar widget",
+    "max-title-length": "Max title length",
+    "max-title-length-desc": "Maximum characters shown in bar widget"
+  },
+  "bar": {
+    "settings": "Settings"
+  }
+}
